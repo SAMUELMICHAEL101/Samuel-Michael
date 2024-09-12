@@ -12,20 +12,15 @@ I hold a Bachelor of Business Administration degree from the University of Profe
 
 ## 🛠️ Skills & Technologies
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" style="border-radius: 10px"/> 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" height="40" style="border-radius: 10px"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" style="border-radius: 10px"/> 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" height="40" style="border-radius: 10px"/> 
-
-- **Excel**: Advanced formulas, data cleaning, pivot tables, data visualization
-- **SQL**: Writing complex queries, performance optimization, CTEs
-- **Python**: Data manipulation, visualization, automation with Pandas and Matplotlib
-- **Power BI**: Creating dashboards, data modeling, KPIs tracking
+<div>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/excel.png" alt="Excel" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/sql.png" alt="SQL" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/python.png" alt="Python" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/powerbi.png" alt="Power BI" height="40" style="border-radius: 10px;" />
+</div>
 
 
 ## 📫 Contact Me
-
-Feel free to reach out if you have any questions or collaboration ideas!
 
 - **Email**: [thesamuelmichael101@gmail.com](mailto:thesamuelmichael101@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
