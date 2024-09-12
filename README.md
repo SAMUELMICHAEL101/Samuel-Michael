@@ -1,8 +1,8 @@
 # 👨‍💼 Samuel Cudjoe - Data Analyst Portfolio
 
-Welcome to my GitHub repository! I am a **Data Analyst** with experience in **Excel**, **SQL**, **Python**, and **Power BI**, passionate about turning data into actionable insights.
+Welcome to my Data World
 
-📧 **Email**: [thesamuelmichael101@gmail.com](mailto:thesamuelmichael101@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
 
 ---
 
@@ -17,7 +17,7 @@ I hold a Bachelor of Business Administration degree from the University of Profe
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 - **Excel**: Advanced formulas, data cleaning, pivot tables, data visualization
 - **SQL**: Writing complex queries, performance optimization, CTEs
@@ -33,3 +33,6 @@ Feel free to reach out if you have any questions or collaboration ideas!
 - **Email**: [thesamuelmichael101@gmail.com](mailto:thesamuelmichael101@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
 
+---
+
+This version uses the `for-the-badge` style to ensure the badges are larger with rounded edges for a more polished and professional look.
