@@ -13,10 +13,10 @@ I hold a Bachelor of Business Administration degree from the University of Profe
 ## 🛠️ Skills & Technologies
 
 <div>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/excel.png" alt="Excel" height="40" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/sql.png" alt="SQL" height="40" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/python.png" alt="Python" height="40" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/powerbi.png" alt="Power BI" height="40" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" height="40" style="border-radius: 10px;" />
 </div>
 
 
