@@ -1,4 +1,4 @@
-# 👨‍💼 Samuel Cudjoe - Data Analyst Portfolio
+# 👨‍💼 Samuel Michael Cudjoe
 
 Welcome to my Data World
 
